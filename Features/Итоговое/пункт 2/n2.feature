@@ -1,6 +1,8 @@
 ﻿#language: ru
 
 @tree
+@ExportScenarios
+@IgnoreOnCIMainBuild
 
 Функционал: загрузка тестовых данных для отчета Остатков товара
 
